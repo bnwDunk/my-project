@@ -120,22 +120,22 @@ HB_BLISSONIC_BLACK_L = Pants("HB_BLISSONIC_BLACK_L", "HB_BLISSONIC_BLACK.png", "
 
 # Jeans ####################
 
-LLMATCH_M = Jeans("ALLMATCH", "ALLMATCH_M.png", "M", "28", "39.5", "8.5", "41", "590", "10")
-ALLMATCH_L = Jeans("ALLMATCH", "ALLMATCH_L.png", "L", "30", "40", "8.5", "42", "590", "10")
-ALLMATCH_XL = Jeans("ALLMATCH", "ALLMATCH_XL.png", "XL", "32-34", "40", "8.5", "44", "590", "10")
-LEVI_JEAN_M = Jeans("LEVI_JEAN", "LEVI.JEAN_M.png", "M", "30", "40", "10",  "42", "690", "10")
-LEVI_JEAN_L = Jeans("LEVI_JEAN", "LEVI.JEAN_L.png", "L", "32", "42", "11", "42", "690", "10")
-LEVI_JEAN_XL = Jeans("LEVI_JEAN", "LEVI.JEAN_XL.png", "XL", "34", "44", "11", "42.5", "690", "10")
-LKTM_M = Jeans("LKTM", "LKTM_M.png", "M", "39", "12.5", "8.5", "38", "590", "10")
-LKTM_L = Jeans("LKTM", "LKTM_L.png", "L", "41", "13", "9", "38.5", "590", "10")
-LKTM_XL = Jeans("LKTM", "LKTM_XL.png", "XL", "42", "13.5", "9", "38.5", "590", "10")
-LKTM_2XL = Jeans("LKTM", "LKTM_2XL.png", "2XL", "43", "13.5", "9", "39", "590", "10")
+ALLMATCH_M = Jeans("ALLMATCH", "ALLMATCH_M.png", "M", "30cm", "39.5cm", "8.5cm", "41cm", 590.00, 10)
+ALLMATCH_L = Jeans("ALLMATCH", "ALLMATCH_L.png", "L", "32cm", "40cm", "8.5cm", "42cm", 590.00, 10)
+ALLMATCH_XL = Jeans("ALLMATCH", "ALLMATCH_XL.png", "XL", "34cm", "40cm", "8.5cm", "44cm", 590.00, 10)
+LEVI_JEAN_M = Jeans("LEVI.JEAN", "LEVI.JEAN_M.png", "M", "30cm", "40cm", "10cm", "9cm", "42cm", 690.00, 10)
+LEVI_JEAN_L = Jeans("LEVI.JEAN", "LEVI.JEAN_L.png", "L", "32cm", "42cm", "11cm", "9cm", "42cm", 690.00, 10)
+LEVI_JEAN_XL = Jeans("LEVI.JEAN", "LEVI.JEAN_XL.png", "XL", "34cm", "44cm", "11cm", "9.5cm", "42.5cm", 690.00, 10)
+LKTM_M = Jeans("LKTM", "LKTM_M.png", "M", "30cm", "39cm", "12.5cm", "8.5cm", "38cm", 590.00, 10)
+LKTM_L = Jeans("LKTM", "LKTM_L.png", "L", "32cm", "41cm", "13cm", "9cm", "38.5cm", 590.00, 10)
+LKTM_XL = Jeans("LKTM", "LKTM_XL.png", "XL", "33cm", "42cm", "13.5cm", "9cm", "38.5cm", 590.00, 10)
+LKTM_2XL = Jeans("LKTM", "LKTM_2XL.png", "2XL", "34cm", "43cm", "13.5cm", "9cm", "39cm", 590.00, 10)
 
 
 
 # # ========== Bags
 
-NEWKID_BAG_M_GRAY = Bags("NEWKID_BAG_C_GRAY ", "NEWKID_BAG_C_GRAY.png", "M", "12cm", "15cm", "15cm", "51cm", 450.00, 10)
+NEWKID_BAG_M_GRAY = Bags("NEWKID_BAG_C_GRAY", "NEWKID_BAG_C_GRAY.png", "M", "12cm", "15cm", "15cm", "51cm", 450.00, 10)
 NEWKID_BAG_M_BLUE = Bags("NEWKID_BAG_C_BLUE", "NEWKID_BAG_C_BLUE.png", "M", "12cm", "15cm", "15cm", "51cm", 450.00, 10)
 NEWKID_BAG_M_WHITE = Bags("NEWKID_BAG_C_WHITE ", "NEWKID_BAG_C_WHITE.png", "M", "12cm", "15cm", "15cm", "51cm", 450.00, 10)
 NEWKID_BAG_L_GRAY = Bags("NEWKID_BAG_C_GRAY ", "NEWKID_BAG_C_GRAY.png", "L", "16cm", "20cm", "20cm", "69cm", 650.00, 5)
